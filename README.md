@@ -16,8 +16,11 @@
 ## インストール
 
 ```bash
-# Claude Code にスキルを追加
-claude /install-skill /path/to/okane-skills
+# npx skills でインストール
+npx skills add inoue2002/okane-skills
+
+# グローバルインストール（全プロジェクトで使用）
+npx skills add inoue2002/okane-skills -g
 ```
 
 ## 使用例
