@@ -7,7 +7,7 @@ description: 家計簿の残高予測・シミュレーションスキル。「�
 
 ## 概要
 
-okane（https://okane-nine.vercel.app/）のエクスポートJSONを分析し:
+[okane](https://okane-nine.vercel.app/)のエクスポートJSONを分析し:
 - **将来の残高予測** - Xヶ月後にいくらになるか
 - **出費可否チェック** - 大きな出費が間に合うか
 - **危険ポイント検出** - 残高不足になる日を警告
