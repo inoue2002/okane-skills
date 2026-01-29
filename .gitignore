@@ -1,0 +1,15 @@
+# 生成されたファイル
+*.png
+*.html
+*.skill
+
+# データファイル（生データは公開禁止）
+*.json
+!package.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
